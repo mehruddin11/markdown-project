@@ -1,4 +1,7 @@
 # markdown-project
+all dependency
+> npm install react-markdown
+> React Hooks
 
 ## clone this repo
 
