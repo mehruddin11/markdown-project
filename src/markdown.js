@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import ReactMarkdown from 'react-markdown'
 const Markdown =() =>{
-	const [markdown, setMarkdown] = useState('##defaultValue')
+	const [markdown, setMarkdown] = useState('## defaultValue')
 	return (
 		<section className='markdown'>
 		<textarea className='input' 
