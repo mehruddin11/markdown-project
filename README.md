@@ -1,7 +1,9 @@
 # markdown-project
 all dependency
 > npm install react-markdown
-> React Hooks
+```
+react hooks comes with react
+```
 
 ## clone this repo
 
